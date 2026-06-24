@@ -6,10 +6,10 @@ services:
     startCommand: java -jar target/bfhl-1.0.0.jar
     envVars:
       - key: APP_USER_NAME
-        value: your_name_here           # e.g. john_doe
+        value: minakshi_sharma
       - key: APP_USER_DOB
-        value: ddmmyyyy                 # e.g. 17091999
+        value: 16112003
       - key: APP_USER_EMAIL
-        value: your@email.com
+        value: minakshi0573.be23@chitkara.edu.in
       - key: APP_USER_ROLL
-        value: YOURROLLNO
+        value: 2310990573
